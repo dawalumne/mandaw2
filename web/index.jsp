@@ -14,5 +14,6 @@
     <body>
         <h1>Hello World!</h1>
         <p>Nova mod</p>
+        <p>Modificacio nova per tots</p>
     </body>
 </html>
